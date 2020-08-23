@@ -1,0 +1,6 @@
+The first and foremost step will be to collect data in order to formulate a model. For this we will use the data of Seattle 
+city. This will be a csv file containing different attributes which may or may not be used to train the model. These 
+attributes are the independent variable based on which we need to model the severity of accidents. It contains attributes 
+such as road condition, weather which mights have an impact on the severity which can be later on visualized and analyzed.
+We can find that most of the observations are good to train and test the machine learning model. There are some unbalanced
+labels which needs to be baanced in order to create an unbiased ML model.
