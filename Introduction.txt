@@ -1,6 +1,0 @@
-The transport agency has outlined the increase in the number of road accident cases nowadays. It has planned on devising
-a way wherein it has aimed to provide particular kind of treatment and solutions for different scenarios. Its aim is to
-provide special attention which can be equipping the area with ambulance and other medical facility or diverting the 
-traffic where there higher severity of crashes. The task will be to predict the severity of these car accidents so as to
-be ready with optimum safety arrangements or planning the traffic in that area or during that time. The study will 
-determine the key factors leading to decide the severity of the car accident.
