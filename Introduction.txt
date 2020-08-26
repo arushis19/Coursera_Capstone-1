@@ -1,0 +1,7 @@
+Nowadays we can see the phrase 'breast cancer' popping out everywhere and it's no surprise with it being the 2nd highest 
+type of cancer after lung cancer amongst the women. So the head of the well renowned private hospital has put a special
+emphasis on predicting the stage or the severity of cancer which will help in providing personalized care and remedies to
+all the patients thereby accordingly focussing the attention towards serious cases and thereby better handling of the 
+ailment. So, based on this business idea the approach is selected and it is planned to create a machine learning model to 
+predict the severity The target audience will obviously be the doctors and subsequently the patients and it will assist 
+the already experienced doctors to better handle the cases.
