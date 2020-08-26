@@ -1,0 +1,9 @@
+The first and foremost step will be to collect data in order to formulate a model. For this we will use the Breast Cancer 
+patients'data of Wisconsin city. This was collected from the radiology and cancer detection centres of various hospitals
+spread across the city of Wisconsin. This will be a csv file containing different attributes which may or may not be used 
+to train the model. These attributes are the independent variable based on which we need to model the probability of it 
+growing into a cancer. It contains various attributes such as clump thickness, cell size, cell shape, marginal adhesion, 
+bland chromatin, etc which will be used to pedict tha cancer and the relation between the attributes and its weightage 
+will also be visualized, analyzed and studied. We will also use two models- KNN and SVM and compare the two models. We can 
+find that most of the observations are good to train and test the machine learning model. There are some unbalanced labels 
+which needs to be balanced in order to create an unbiased ML model.
